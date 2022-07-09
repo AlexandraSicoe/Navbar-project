@@ -1,0 +1,18 @@
+.name {
+  /* outline: 1px solid blue; */
+  text-align: center;
+  height: 500px;
+}
+.inner-box {
+  width: 80%;
+  height: 300px;
+
+  align-self: center;
+}
+.footer-container {
+  display: flex;
+  justify-content: center;
+}
+.ul {
+  list-style-type: none;
+}
